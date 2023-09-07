@@ -34,4 +34,3 @@ function newItem() {
     $('#input').val('');
 
 }
-
