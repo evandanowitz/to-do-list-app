@@ -22,4 +22,9 @@ function newItem() {
     crossOutButton.text('X');
     li.append(crossOutButton);
 
+// 3(ii). Adding CLASS DELETE (DISPLAY: NONE) from the CSS:
+    crossOutButton.on('click', function() {
+        li.addClass('delete');
+    });
+
 }
