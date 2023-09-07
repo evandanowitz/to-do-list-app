@@ -30,4 +30,8 @@ function newItem() {
 // 4. Reordering the items:
     list.sortable();
 
+// Clear the input field after adding an item:
+    $('#input').val('');
+
 }
+
