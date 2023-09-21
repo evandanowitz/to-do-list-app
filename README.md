@@ -1,9 +1,7 @@
-The Pokédex application project displays a list of 150 Pokémon that have been dynamically created in JavaScript and are sourced from an external API. When a user clicks on one of the Pokémon buttons, a modal will appear displaying details of the selected Pokémon such as name, height, type(s) and an image. To get rid of the modal, click anywhere outside of the modal, the "X" in the top-right corner, or press the "Esc" key on your keyboard.
+The To-Do List application project was created using jQuery, one of JavaScript's most popular and widely used libraries. You are able to create To-Do List items by typing in the input field and clicking the button to write them on the page. You then have the ability to eliminate the item by clicking on the "X" next to it. If you have multiple items on your list, you can rearrange them by dragging above or below another item. If you want to cross out items with a strikethrough as you complete tasks, you can do so by double clicking on the item.
 
-The goal behind this project was to create a function Pokédex app by taking my current HTML, CSS, and JavaScript files and implementing Bootstrap to create modals, navbars, etc.
+The goal behind this project was to create a functional app by taking vanilla JavaScript code and converting it into jQuery code.
 
-This project is dependent upon HTML, CSS, JavaScript and one of JavaScript's mos
+This project is dependent upon HTML, CSS, JavaScript and, of course, jQuery.
 
-The project uses the following API: https://pokeapi.co/api/v2/pokemon/?limit=150
-
-Have fun and enjoy!
+Go ahead and get some tasks added to your To-Do List!
